@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-<alphabet>АБВГДЃЕЖЗЅИЈКЛЉМНЊОПРСТЌУФХЦЧЏШабвгдѓежзѕијклљмнњопрстќуфхцчџшčČćĆžŽšŠđĐABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
+<alphabet></alphabet>
  <sdefs> <sdef n="n" c="Noun"/>
  <sdef n="m" c="Masculine"/>
  <sdef n="f" c="Feminine"/>
  <sdef n="nt" c="Neuter"/>
  <sdef n="mf" c="Masculine-Feminine"/>
  <sdef n="sg" c="Singular"/>
+ <sdef n="imperf" c="Imperfect"/>
+ <sdef n="perf" c="Perfect"/>
+ <sdef n="iv" c="Intransitive"/>
+ <sdef n="tv" c="Transitive"/>
  <sdef n="pl" c="Plural"/>
  <sdef n="prn" c="Pronoun"/>
  <sdef n="pr" c="Preposition"/>
+ <sdef n="pers" c="Personal"/>
+
  <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
  <sdef n="cnjsub" c="Subordinating conjunction"/>
  <sdef n="cnjadv" c="Adverbial conjunction"/>
@@ -854,8 +860,8 @@
 <e><p><l>bistven<s n="adj"/></l><r>основен<s n="adj"/></r></p></e>
 <e><p><l>bistven<s n="adv"/></l><r>биствен<s n="adv"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>bistvo<s n="n"/><s n="nt"/></l><r>суштина<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>biti<s n="vblex"/></l><r>сум<s n="vbser"/></r></p></e>
-<e><p><l>biti<s n="vbser"/></l><r>сум<s n="vbser"/></r></p></e>
+<e><p><l>biti<s n="vblex"/></l><r>е<s n="vbser"/></r></p></e>
+<e><p><l>biti<s n="vbser"/></l><r>е<s n="vbser"/></r></p></e>
 <e><p><l>bitje<s n="n"/><s n="nt"/></l><r>суштество<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>bitka<s n="n"/></l><r>битка<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>bitka<s n="n"/><s n="f"/></l><r>победа<s n="n"/><s n="f"/></r></p></e>
@@ -2421,7 +2427,6 @@
 <e><p><l>dobava<s n="n"/></l><r>добава<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>dobere<s n="vblex"/></l><r>добере<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>dober<s n="adj"/></l><r>добар<s n="adj"/></r></p></e>
-<e><p><l>dober<s n="adj"/></l><r>добер<s n="adj"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>dober<s n="adv"/></l><r>добро<s n="adv"/></r></p></e>
 <e><p><l>dobeseden<s n="adv"/></l><r>буквално<s n="adv"/></r></p></e>
 <e><p><l>dobiček<s n="n"/></l><r>добичек<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
@@ -4241,8 +4246,11 @@
 <e><p><l>hlod<s n="n"/></l><r>хлод<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>hočevar<s n="n"/></l><r>хочевар<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>hodec<s n="n"/></l><r>ходец<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
+
 <e><p><l>hoditi<s n="adv"/></l><r>ходити<s n="adv"/></r></p></e><!-- untrusted no bilingual entry-->
-<e><p><l>hoditi<s n="vblex"/></l><r>оди<s n="vblex"/></r></p></e>
+
+<e><p><l>hoditi<s n="vblex"/></l><r>оди<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+
 <e><p><l>hodniče<s n="n"/></l><r>ходниче<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>hodnik<s n="n"/></l><r>ходник<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>hodnik<s n="n"/><s n="m"/></l><r>ходник<s n="n"/><s n="m"/></r></p></e>
@@ -17071,7 +17079,6 @@
 <e><p><l>proѕirnost<s n="n"/></l><r>проѕирност<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>proѕre<s n="vblex"/></l><r>проѕре<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>prpelka<s n="vblex"/></l><r>прпелка<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
-<e><p><l>prpers<s n="n"/></l><r>прперс<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>prsat<s n="adj"/></l><r>прсат<s n="adj"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>prsen<s n="adj"/></l><r>граден<s n="adj"/></r></p></e>
 <e><p><l>prsi<s n="n"/></l><r>прси<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
@@ -19385,7 +19392,11 @@
 <e><p><l>snežinka<s n="n"/></l><r>снежинка<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>snežiti<s n="vblex"/></l><r>снежити<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>snimka<s n="n"/></l><r>снимка<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
-<e><p><l>sniti<s n="vblex"/></l><r>сретне<s n="vblex"/></r></p></e>
+
+<e><p><l>srečati<s n="vblex"/></l><r>сретне<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+<e><p><l>sretne<s n="vblex"/></l><r>сретне<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e><!-- untrusted no bilingual entry-->
+<e><p><l>sniti<s n="vblex"/></l><r>сретне<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+
 <e><p><l>snop<s n="n"/></l><r>сноп<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>snovanje<s n="n"/></l><r>сновање<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>snovati<s n="vblex"/></l><r>сновати<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
@@ -20000,7 +20011,6 @@
 <e><p><l>srebro<s n="n"/></l><r>сребро<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>srečanje<s n="n"/><s n="m"/></l><r>средба<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sreča<s n="n"/><s n="f"/></l><r>среќа<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>srečati<s n="vblex"/></l><r>сретне<s n="vblex"/></r></p></e>
 <e><p><l>srečavati<s n="vblex"/></l><r>сречавати<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>srečen<s n="adj"/></l><r>среќен<s n="adj"/></r></p></e>
 <e><p><l>srečen<s n="adv"/></l><r>сречен<s n="adv"/></r></p></e><!-- untrusted no bilingual entry-->
@@ -20028,7 +20038,6 @@
 <e><p><l>sredstvo<s n="adv"/></l><r>средство<s n="adv"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>sredstvo<s n="n"/><s n="nt"/></l><r>медиум<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sretnat<s n="adj"/></l><r>сретнат<s n="adj"/></r></p></e><!-- untrusted no bilingual entry-->
-<e><p><l>sretne<s n="vblex"/></l><r>сретне<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>sreќa<s n="n"/></l><r>среќа<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>sreќava<s n="vblex"/></l><r>среќава<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>sreќen<s n="adj"/></l><r>среќен<s n="adj"/></r></p></e><!-- untrusted no bilingual entry-->
@@ -21115,7 +21124,7 @@
 <e><p><l>tarnati<s n="vblex"/></l><r>тарнати<s n="vblex"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>tarzan<s n="n"/></l><r>тарзан<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>ta<s n="cnjcoo"/></l><r>та<s n="cnjcoo"/></r></p></e><!-- untrusted no bilingual entry-->
-<e><p><l>ta<s n="prn"/></l><r>тоа<s n="prn"/></r></p></e>
+<e><p><l>ta<s n="prn"/></l><r>тој<s n="prn"/></r></p></e>
 <e><p><l>taščica<s n="n"/></l><r>ташчица<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>tatič<s n="n"/></l><r>татич<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>tatinski<s n="adj"/></l><r>татински<s n="adj"/></r></p></e><!-- untrusted no bilingual entry-->
@@ -21437,7 +21446,7 @@
 <e><p><l>toaleten<s n="adj"/></l><r>тоалетен<s n="adj"/></r></p></e>
 <e><p><l>toaleten<s n="adj"/></l><r>тоалетен<s n="adj"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>toalet<s n="n"/></l><r>тоалет<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
-<e><p><l>toa<s n="prn"/></l><r>тоа<s n="prn"/></r></p></e><!-- untrusted no bilingual entry-->
+<e><p><l>toa<s n="prn"/></l><r>тој<s n="prn"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>tobačen<s n="adj"/></l><r>тобачен<s n="adj"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>tobak<s n="n"/><s n="m"/></l><r>тутун<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>toča<s n="n"/></l><r>точа<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
@@ -25699,11 +25708,12 @@
 <e><p><l>ѕvonenje<s n="n"/></l><r>ѕвонење<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>ѕvono<s n="adv"/></l><r>ѕвоно<s n="adv"/></r></p></e><!-- untrusted no bilingual entry-->
 <e><p><l>ѕvon<s n="n"/></l><r>ѕвон<s n="n"/></r></p></e><!-- untrusted no bilingual entry-->
-<e><p><l>prpers<s n="prn"/></l><r>прперс<s n="prn"/></r></p></e><!-- manual-->
+
+<e><p><l>prpers<s n="prn"/><s n="pers"/></l><r>free<s n="prn"/><s n="pers"/></r></p></e>
 
 <!-- Proper names -->
 <e><p><l>Italija<s n="np"/><s n="top"/><s n="f"/></l><r>Италија<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
-<e><re>[,]</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+<e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
 </section>
 </dictionary>

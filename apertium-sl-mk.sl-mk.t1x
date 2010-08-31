@@ -11,6 +11,9 @@
     <def-cat n="vbserpres">
       <cat-item tags="vbser.pres.*"/>
     </def-cat>
+    <def-cat n="vbpii">
+      <cat-item tags="vblex.pii.*"/>
+    </def-cat>
     <def-cat n="vbserempty">
       <cat-item tags="vbser"/>
     </def-cat>
@@ -65,6 +68,9 @@
 	  <cat-item tags="prn.itg.*"/>
      </def-cat>
 -->
+    <def-cat n="prn_dem">
+      <cat-item tags="prn.dem.*"/>
+    </def-cat>
     <def-cat n="prn_pos">
       <cat-item tags="prn.pos.*"/>
     </def-cat>
@@ -207,6 +213,8 @@
       <attr-item tags="prn.tn.pos"/>
       <attr-item tags="prn.itg"/>
       <attr-item tags="prn.pos"/>
+      <attr-item tags="prn.dem"/>
+      <attr-item tags="prn.pers"/>
       <attr-item tags="prn.subj"/>
       <attr-item tags="prn.obj"/>
     </def-attr>
@@ -218,6 +226,14 @@
     </def-attr>
     <def-attr n="a_vblex">
       <attr-item tags="vblex"/>
+    </def-attr>
+    <def-attr n="transitivity">
+      <attr-item tags="tv"/>
+      <attr-item tags="iv"/>
+    </def-attr>
+    <def-attr n="aspect">
+      <attr-item tags="imperf"/>
+      <attr-item tags="perf"/>
     </def-attr>
     <def-attr n="a_vbser">
       <attr-item tags="vbser"/>
@@ -251,6 +267,7 @@
       <attr-item tags="prn.enc.ref"/>
     </def-attr>
     <def-attr n="gen">
+      <attr-item tags="mfn"/>
       <attr-item tags="m"/>
       <attr-item tags="f"/>
       <attr-item tags="nt"/>
@@ -262,7 +279,6 @@
       <attr-item tags="pl"/>
       <attr-item tags="du"/>
       <attr-item tags="sp"/>
-
       <attr-item tags="ND"/>
     </def-attr>
     <def-attr n="persona">
@@ -366,7 +382,8 @@
           </let>
         </when>
       </choose>
-      <choose> <!-- By default Macedonian adjectives do not show gender in plural -->
+<!-- By default Macedonian adjectives do not show gender in plural -->
+      <choose> 
         <when>
           <test>
             <equal>
@@ -376,7 +393,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="gen"/>
-            <lit-tag v="mf"/>
+            <lit-tag v="mfn"/>
           </let>
         </when>
       </choose>
@@ -439,171 +456,7 @@
         </when>
       </choose>
     </def-macro>
-    <def-macro n="f_pretind" npar="1">
-      <!--Para traducir el pret�ito indefinido por la forma perifr�tica (dije - vaig dir) y enviar el verbo. Debe ponerse en todas las reglas en las que aparezca un verbo vblex, vbmod o vbser -->
-      <choose>
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" side="sl" part="temps"/>
-              <lit-tag v="ifi"/>
-            </equal>
-          </test>
-          <out>
-            <lu>
-              <get-case-from pos="1">
-                <lit v="anar"/>
-              </get-case-from>
-              <lit-tag v="vaux"/>
-              <clip pos="1" side="sl" part="persona"/>
-              <clip pos="1" side="sl" part="nbr"/>
-            </lu>
-            <b/>
-          </out>
-          <choose>
-            <when>
-              <test>
-                <equal>
-                  <case-of pos="1" side="sl" part="lemh"/>
-                  <lit v="Aa"/>
-                </equal>
-              </test>
-              <modify-case>
-                <clip pos="1" side="tl" part="lemh"/>
-                <lit v="aa"/>
-              </modify-case>
-            </when>
-          </choose>
-          <out>
-            <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_verb"/>
-              <lit-tag v="inf"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-          </out>
-        </when>
-        <otherwise>
-          <out>
-            <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="1" side="tl" part="temps"/>
-              <clip pos="1" side="tl" part="persona"/>
-              <clip pos="1" side="tl" part="gen"/>
-              <clip pos="1" side="tl" part="nbr"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-          </out>
-        </otherwise>
-      </choose>
-    </def-macro>
-    <def-macro n="f_lexicAdj" npar="1">
-      <choose>
-        <when>
-          <test>
-            <equal caseless="yes">
-              <clip pos="1" side="tl" part="lem"/>
-              <lit v="dolent"/>
-            </equal>
-          </test>
-          <let>
-            <clip pos="1" side="tl" part="lem"/>
-            <get-case-from pos="1">
-              <lit v="mal"/>
-            </get-case-from>
-          </let>
-        </when>
-      </choose>
-    </def-macro>
-    <def-macro n="f_seleccioLex" npar="1">
-      <choose>
-        <when>
-          <test>
-            <and>
-              <equal>
-                <clip pos="1" side="sl" part="lemh"/>
-                <lit v="sentar"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="verbototal"/>
-                <lit-tag v="vblex.pri.p1.sg"/>
-              </equal>
-            </and>
-          </test>
-          <let>
-            <clip pos="1" side="tl" part="lemh"/>
-            <lit v="sentir"/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <and>
-              <equal>
-                <clip pos="1" side="sl" part="lemh"/>
-                <lit v="sentar"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="verbototal"/>
-                <lit-tag v="vblex.pri.p3.sg"/>
-              </equal>
-            </and>
-          </test>
-          <let>
-            <clip pos="1" side="tl" part="lemh"/>
-            <lit v="sentir"/>
-          </let>
-          <let>
-            <clip pos="1" side="tl" part="verbototal"/>
-            <lit-tag v="vblex.prs.p3.sg"/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <and>
-              <equal>
-                <clip pos="1" side="sl" part="lemh"/>
-                <lit v="sentar"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="verbototal"/>
-                <lit-tag v="vblex.pri.p2.sg"/>
-              </equal>
-            </and>
-          </test>
-          <let>
-            <clip pos="1" side="tl" part="lemh"/>
-            <lit v="sentir"/>
-          </let>
-          <let>
-            <clip pos="1" side="tl" part="verbototal"/>
-            <lit-tag v="vblex.prs.p2.sg"/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <and>
-              <equal>
-                <clip pos="1" side="sl" part="lemh"/>
-                <lit v="sentar"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="verbototal"/>
-                <lit-tag v="vblex.pri.p3.pl"/>
-              </equal>
-            </and>
-          </test>
-          <let>
-            <clip pos="1" side="tl" part="lemh"/>
-            <lit v="sentir"/>
-          </let>
-          <let>
-            <clip pos="1" side="tl" part="verbototal"/>
-            <lit-tag v="vblex.prs.p3.pl"/>
-          </let>
-        </when>
-      </choose>
-    </def-macro>
+
     <def-macro n="f_set_gen_num_head1" npar="1">
       <let>
         <var n="numero"/>
@@ -614,6 +467,7 @@
         <clip pos="1" side="tl" part="gen"/>
       </let>
     </def-macro>
+
     <def-macro n="f_concord1" npar="1">
       <choose>
         <!--To determine value of variables of gender and
@@ -2574,6 +2428,43 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: PRNDEM → PRNDEM">
+      <pattern>
+        <pattern-item n="prn_dem"/>
+      </pattern>
+      <action>
+        <call-macro n="f_du_to_pl1">
+          <with-param pos="1"/>
+        </call-macro>
+        <choose> 
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="pl"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit-tag v="mfn"/>
+            </let>
+          </when>
+        </choose>
+  
+
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_prn"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: PRNPOS → PRNPOS">
       <pattern>
         <pattern-item n="prn_pos"/>
@@ -2582,6 +2473,22 @@
         <call-macro n="f_du_to_pl1">
           <with-param pos="1"/>
         </call-macro>
+        <choose> 
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="pl"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit-tag v="mfn"/>
+            </let>
+          </when>
+        </choose>
+  
+
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
@@ -2618,7 +2525,7 @@
     </rule>
 
 
-    <rule> <!-- REGLA:  NOM mk has no tenses, nom into nominative-->
+    <rule> <!-- REGLA:  NOM mk has no cases, nom into nominative-->
       <pattern>
         <pattern-item n="nom"/>
       </pattern>
@@ -2643,7 +2550,7 @@
       </action>
     </rule>
 
-    <rule> <!-- REGLA: ADJECTIU NOM mk has no tenses, nom into nominative, adj lose tense-->
+    <rule> <!-- REGLA: ADJECTIU NOM mk has no cases, nom into nominative, adj lose case-->
       <pattern>
         <pattern-item n="adj"/>
         <pattern-item n="nom"/>
@@ -2663,9 +2570,9 @@
            <lu> 
 	    <clip pos="1" side="tl" part="lemh"/>
 	    <clip pos="1" side="tl" part="a_adjec"/>
-	    <clip pos="2" side="tl" part="gen"/>
-	    <clip pos="2" side="tl" part="nbr"/>
-	    <lit-tag v="ind"/>
+	    <clip pos="1" side="tl" part="gen"/>
+	    <clip pos="1" side="tl" part="nbr"/>
+	    <lit-tag v="nom.ind"/>
 	</lu>
 	<b pos="1"/>
 	<lu> 
@@ -2790,7 +2697,7 @@
       </action>
     </rule>
 
-    <rule> <!-- REGLA: ADJECTIU mk has no tenses, nom into nominative, adj lose tense-->
+    <rule> <!-- REGLA: ADJECTIU mk has no case, nom into nominative, adj lose case -->
       <pattern>
         <pattern-item n="adj"/>
       </pattern>
@@ -2807,7 +2714,7 @@
 	    <clip pos="1" side="tl" part="a_adj"/>
 	    <clip pos="1" side="tl" part="gen"/>
 	    <clip pos="1" side="tl" part="nbr"/>
-	    <lit-tag v="ind"/>
+	    <lit-tag v="nom.ind"/>
           </lu>
         </out>
       </action>
@@ -2826,6 +2733,20 @@
         </out>
       </action>
     </rule>
+
+    <rule>
+      <pattern>
+        <pattern-item n="vbpii"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
 
     <!-- REGLA: jaz bi šel ta je OK, kaj pa da bi šel na potep? -->
     <rule>
@@ -2948,6 +2869,30 @@
       </action>
     </rule>
 
+    <rule>
+      <pattern>
+        <pattern-item n="vblexpast"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="temps"/>
+          <lit-tag v="pii"/>
+        </let>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_vblex"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="persona"/>
+            <clip pos="1" side="tl" part="nbr"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
     <!-- REGLA: passato 3 jaz sem hodil-->
     <rule>
       <pattern>
@@ -2963,6 +2908,8 @@
           <lu>
             <clip pos="2" side="tl" part="lemh"/>
             <clip pos="2" side="tl" part="a_vblex"/>
+            <clip pos="2" side="tl" part="aspect"/>
+            <clip pos="2" side="tl" part="transitivity"/>
             <clip pos="2" side="tl" part="temps"/>
             <clip pos="1" side="tl" part="persona"/>
             <clip pos="1" side="tl" part="nbr"/>
@@ -2986,6 +2933,8 @@
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="a_vblex"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
             <clip pos="1" side="tl" part="temps"/>
             <clip pos="2" side="tl" part="persona"/>
             <clip pos="2" side="tl" part="nbr"/>
@@ -3011,7 +2960,7 @@
             <get-case-from pos="1">
               <lit v="ќе"/>
             </get-case-from>
-            <lit-tag v="part"/>
+            <lit-tag v="part.exp"/>
           </lu>
           <b pos="1"/>
           <lu>
@@ -3044,7 +2993,7 @@
             <get-case-from pos="1">
               <lit v="ќе"/>
             </get-case-from>
-            <lit-tag v="part"/>
+            <lit-tag v="part.exp"/>
           </lu>
           <b pos="1"/>
           <lu>
@@ -3077,7 +3026,7 @@
             <get-case-from pos="1">
               <lit v="ќе"/>
             </get-case-from>
-            <lit-tag v="part"/>
+            <lit-tag v="part.exp"/>
           </lu>
           <b pos="1"/>
           <lu>
@@ -3108,7 +3057,7 @@
             <get-case-from pos="1">
               <lit v="ќе"/>
             </get-case-from>
-            <lit-tag v="part"/>
+            <lit-tag v="part.exp"/>
           </lu>
           <b pos="1"/>
           <lu>
@@ -3141,7 +3090,7 @@
             <get-case-from pos="1">
               <lit v="ќе"/>
             </get-case-from>
-            <lit-tag v="part"/>
+            <lit-tag v="part.exp"/>
           </lu>
           <b pos="1"/>
           <lu>
@@ -3175,7 +3124,7 @@
             <get-case-from pos="1">
               <lit v="ќе"/>
             </get-case-from>
-            <lit-tag v="part"/>
+            <lit-tag v="part.exp"/>
           </lu>
           <b pos="1"/>
           <lu>
@@ -3208,7 +3157,7 @@
             <get-case-from pos="1">
               <lit v="ќе"/>
             </get-case-from>
-            <lit-tag v="part"/>
+            <lit-tag v="part.exp"/>
           </lu>
           <b pos="1"/>
           <lu>
@@ -3241,7 +3190,7 @@
             <get-case-from pos="1">
               <lit v="ќе"/>
             </get-case-from>
-            <lit-tag v="part"/>
+            <lit-tag v="part.exp"/>
           </lu>
           <b pos="1"/>
           <lu>
