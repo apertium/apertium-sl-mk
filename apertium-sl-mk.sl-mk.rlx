@@ -42,6 +42,7 @@ LIST Ins = (ins);
 LIST L-part = (vblex past);
 
 LIST NAGDLI = nom acc gen dat loc ins;
+LIST OBLIQUE = acc gen dat loc ins;
 LIST GENDER = m f nt;
 LIST NUMBER = sg du pl;
 
@@ -89,3 +90,9 @@ SELECT:r7 Vbser IF (1C L-part);
 
 #  On je bil kupil
 REMOVE:r8 Pron + Subj IF (-1C Pron + Subj);
+
+# Adv or Pr
+REMOVE:r9 Adv IF (NOT -1 V)(0 Pr)(1 OBLIQUE) ;
+# comment: not -1 v is just to be careful
+# comment: better would be to list the prepositions according to case subcat
+
