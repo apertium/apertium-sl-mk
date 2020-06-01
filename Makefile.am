@@ -1,4 +1,3 @@
-VERSION=0.1.0
 LANG1=sl
 LANG2=mk
 PREFIX1=$(LANG1)-$(LANG2)
@@ -6,15 +5,13 @@ PREFIX2=$(LANG2)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
-##
-##	BUILD TARGETS
-##
-
 TARGETS_COMMON =  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
      $(PREFIX1).t1x.bin $(PREFIX).rlx.bin  $(PREFIX1).mode
 
 # $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).lex.bin $(PREFIX1).autopgen.bin
+
+@ap_include@
 
 ##
 ## 	DICTIONARIES (ANALYSER / BILINGUAL / GENERATOR / POSTGEN)
@@ -63,14 +60,6 @@ $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 #	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t3x
 #	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t3x $@
 
-#
-#	MODE FILE(S)
-#
-
-$(PREFIX1).mode: modes.xml 
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
 ## 
 ##	FILES WHICH AREN'T BUILD BUT ARE DISTRIBUTED
 ## 
@@ -88,29 +77,23 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 #           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README 
 
 apertium_sl_mkdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_sl_modesdir=$(prefix)/share/apertium/modes/
 
 apertium_sl_mk_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin  \
                     $(PREFIX1).autogen.bin \
 		    $(PREFIX1).t1x.bin \
 		    $(PREFIX1).rlx.bin \
-                    $(PREFIX1).prob \
-	            $(PREFIX1).mode modes.xml
+                    $(PREFIX1).prob
 		  
 #                   $(PREFIX1).autopgen.bin 
 #		    $(PREFIX1).lex.bin 
 #		    $(PREFIX1).t2x.bin 
 #		    $(PREFIX1).t3x.bin 
 
-install-data-local:
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	cp *.mode modes/
-	test -d $(DESTDIR)$(apertium_sl_modesdir) || mkdir $(DESTDIR)$(apertium_sl_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_sl_modesdir)
+install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_sl_mkdir)
 
 #	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_sl_mkdir)
 #	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_sl_mkdir)
 
-CLEANFILES = -rf $(TARGETS_COMMON) modes
+CLEANFILES = -rf $(TARGETS_COMMON)
