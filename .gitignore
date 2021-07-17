@@ -17,3 +17,11 @@
 /missing
 /modes
 /stamp-h1
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/INSTALL
+/ap_include.am
+/*-*.prob
+/test/*-output.txt

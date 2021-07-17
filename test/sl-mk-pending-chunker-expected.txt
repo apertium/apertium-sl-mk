@@ -1,0 +1,90 @@
+[0C40dlytMAzp#0] ^Ќе<part><exp>$ ^купи<vblex><pres><p1><sg>$ ^куќа<n><f><sg><nom><ind>$
+[/0C40dlytMAzp]
+[2Pbk1M_3z4Tx#0] ^Утре<adv>$ ^ќе<part><exp>$ ^е<vbser><pres><p3><sg>$ ^убав<adj><m><sg><nom><ind>$ ^ден<n><m><sg><nom><ind>$
+[/2Pbk1M_3z4Tx]
+[2QcoKxThoEsY#0] ^Ќе<part><exp>$ ^пребрати<vblex><pres><p1><sg>$ ^книга<n><f><sg><nom><ind>$
+[/2QcoKxThoEsY]
+[3S_st7Ichl7_#0] ^@Lepo<adv>$ ^млад<adj><f><sg><nom><ind>$ ^девојка<n><f><sg><nom><ind>$
+[/3S_st7Ichl7_]
+[6VDni6tprf8j#0] ^Вчера<adv>$ ^е<vbser><pres><p1><sg>$ ^biti<vbser><past><m><sg>$ ^на<pr>$ ^@igrišče<n><nt><sg><nom><ind>$
+[/6VDni6tprf8j]
+[6hL1EpLF6zsO#0] ^Free<prn><pers><p2><mf><pl><nom>$ ^е<vbser><pres><p2><pl>$ ^главен<adj><f><sg><nom><ind>$
+[/6hL1EpLF6zsO]
+[70ZxwAJ0HMGD#0] ^@Lepo<adv>$
+[/70ZxwAJ0HMGD]
+[A7pjiYUNac_G#0] ^Денес<adv>$ ^е<vbser><pres><p3><sg>$ ^точно<adv>$ ^убав<adj><m><sg><nom><ind>$ ^ден<n><m><sg><nom><ind>$ ^и<cnjcoo>$ ^патува<vblex><pres><p1><sg>$ ^со<pr>$ ^коњ<n><m><sg><nom><ind>$^.<sent>$
+[/A7pjiYUNac_G]
+[B7XW_jAn2xIw#0] ^Купи<vblex><pii><p3><sg>$ ^автомобил<n><m><sg><nom><ind>$^.<sent>$
+[/B7XW_jAn2xIw]
+[GfMv4WjdhT_Q#0] ^Утре<adv>$ ^ќе<part><exp>$ ^купи<vblex><pres><p3><sg>$ ^тркало<n><nt><sg><nom><ind>$^.<sent>$
+[/GfMv4WjdhT_Q]
+[IeJZ2P17_O7O#0] ^Девојка<n><f><sg><nom><ind>$ ^е<vbser><pres><p3><sg>$ ^јаболко<n><nt><sg><nom><ind>$
+[/IeJZ2P17_O7O]
+[Irk4Ma5-THY9#0] ^Купи<vblex><pii><p3><sg>$ ^тркало<n><nt><sg><nom><ind>$^.<sent>$
+[/Irk4Ma5-THY9]
+[LGzfaJyGfbew#0] ^Секој<prn><m><sg><nom>$ ^недело<n><nt><sg><nom><ind>$ ^пребрати<vblex><pres><p1><sg>$ ^книга<n><f><sg><nom><ind>$
+[/LGzfaJyGfbew]
+[LL8UYMx294xn#0] ^Утре<adv>$ ^ќе<part><exp>$ ^купи<vblex><pres><p1><sg>купи$ ^нов<adj><nt><sg><nom><ind>$ ^тркало<n><nt><sg><nom><ind>$
+[/LL8UYMx294xn]
+[MjYz3b0ReEK_#0] ^Утре<adv>$ ^ќе<part><exp>$ ^купи<vblex><pres><p1><sg>$ ^куќа<n><f><sg><nom><ind>$
+[/MjYz3b0ReEK_]
+[Ohr8KRtahjY-#0] ^Тие<prn><m><sg><nom>$ ^е<vbser><pres><p3><pl>$ ^главен<adj><f><sg><nom><ind>$
+[/Ohr8KRtahjY-]
+[PXJkPUn8NXSR#0] ^тој<prn><dem><mfn><pl>$^,<cm>$ ^free<prn><pers><p3><m><sg><nom>$^,<cm>$ ^free<prn><pers><p1><mfn><sg><dat>$^,<cm>$ ^free<prn><pers><p2><mf><pl><nom>$^,<cm>$ ^тие<prn><m><sg><nom>$^,<cm>$ ^free<prn><pers><p1><mf><pl><nom>$^,<cm>$ ^free<prn><pers><p2><mf><pl><nom>$^,<cm>$ ^free<prn><pers><p3><mf><pl><nom>$
+[/PXJkPUn8NXSR]
+[Qt2kOkDIHzST#0] ^Оди<vblex><imperf><iv><pii><p1><sg>$ ^по<pr>$ ^земја<n><f><sg><nom><ind>$ ^наш<prn><pos><mfn><pl><ind>$^,<cm>$ ^сретне<vblex><perf><tv><pii><sg>$ ^добар<adj><f><sg><nom><ind>$ ^е<vbser><pres><p1><sg>$ ^човек<n><m><pl><nom><ind>$^,<cm>$ ^мал<adj><f><sg><nom><ind>$ ^скромен<adj><f><sg><nom><ind>$ ^но<cnjcoo>$ ^поштен<adj><f><sg><nom><ind>$^,<cm>$ ^тој<prn><dem><f><sg>$ ^е<vbser><pres><p1><pl>$ ^free<prn><pers><p1><mfn><sg><dat>$
+[/Qt2kOkDIHzST]
+[STZ5E6hlWSGo#0] ^Ќе<part><exp>$ ^купи<vblex><pres><p1><sg>$ ^се<prn><ref><mf><sp><dat>$ ^нов<adj><f><sg><nom><ind>$ ^*kravato$
+[/STZ5E6hlWSGo]
+[TKoFGAATuTTA#0] ^Купи<vblex><pii><sg>$ ^се<prn><ref><mf><sp><dat>$ ^е<vbser><pres><p3><sg>$ ^тркало<n><nt><sg><nom><ind>$^.<sent>$
+[/TKoFGAATuTTA]
+[VpjLHNCnZQ8k#0] ^Free<prn><pers><p2><mfn><sg><nom>$ ^е<vbser><pres><p2><sg>$ ^главен<adj><f><sg><nom><ind>$
+[/VpjLHNCnZQ8k]
+[X9DLsrVBMMVp#0] ^Ќе<part><exp>$ ^чита<vblex><pres><p1><sg>$ ^книга<n><f><sg><nom><ind>$
+[/X9DLsrVBMMVp]
+[_GW3RdhJAJbc#0] ^Free<prn><pers><p3><m><sg><nom>$ ^сака<vblex><pres><p3><sg>$ ^чај<n><m><sg><nom><ind>$
+[/_GW3RdhJAJbc]
+[c3W6v9q0O6F3#0] ^Вчера<adv>$ ^купи<vblex><pii><p3><sg>$ ^тркало<n><nt><sg><nom><ind>$^.<sent>$
+[/c3W6v9q0O6F3]
+[c5sGsahSHa8V#0] ^Free<prn><pers><p1><mfn><sg><nom>$ ^оди<vblex><imperf><iv><pii><p1><sg>$ ^по<pr>$ ^пот<n><f><sg><nom><ind>$
+[/c5sGsahSHa8V]
+[cQGhil_rr0qF#0] ^Книга<n><f><sg><nom><ind>$ ^се<prn><ref><mf><sp><gen>$ ^@lepo<adv>$ ^чита<vblex><pres><p3><sg>$
+[/cQGhil_rr0qF]
+[d3OGYw5OAcAe#0] ^даде<vblex><pii><p2><sg>$
+[/d3OGYw5OAcAe]
+[eeXOnNlADZRr#0] ^Утре<adv>$ ^ќе<part><exp>$ ^е<vbser><pres><p3><sg>$ ^убав<adj><m><sg><nom><ind>$ ^ден<n><m><sg><nom><ind>$^.<sent>$
+[/eeXOnNlADZRr]
+[eicNvSEogAIr#0] ^Ќе<part><exp>$ ^дојде<vblex><pres><p1><sg>$
+[/eicNvSEogAIr]
+[fHSd7J3NjC_H#0] ^Free<prn><pers><p1><mfn><sg><nom>$ ^е<vbser><pres><p1><sg>$ ^главен<adj><f><sg><nom><ind>$
+[/fHSd7J3NjC_H]
+[fxyagJDmczRm#0] ^Денес<adv>$ ^е<vbser><pres><p3><sg>$ ^убав<adj><nt><sg><nom><ind>$ ^време<n><nt><sg><nom><ind>$^.<sent>$
+[/fxyagJDmczRm]
+[izcdxr9HYAhg#0] ^Free<prn><pers><p1><mfn><sg><dat>$ ^е<vbser><pres><p1><pl>$ ^главен<adj><f><sg><nom><ind>$
+[/izcdxr9HYAhg]
+[j6Ij_pO_4911#0] ^Пребрати<vblex><pii><p1><sg>$ ^книга<n><f><sg><nom><ind>$
+[/j6Ij_pO_4911]
+[l2WFizkAauWe#0] ^biti<vbser><past><m><sg>$ ^е<vbser><pres><p1><sg>$ ^во<pr>$ ^Италија<np><top><f><sg><dat>$
+[/l2WFizkAauWe]
+[lRPWd_fPi7aL#0] ^Убав<adj><f><sg><nom><ind>$ ^девојка<n><f><sg><nom><ind>$
+[/lRPWd_fPi7aL]
+[mlRJ3L4WQkFR#0] ^Купи<vblex><pii><sg>$ ^се<prn><ref><mf><sp><dat>$ ^ќе<part><exp>$ ^е<vbser><pres><p1><sg>$ ^пиштол<n><m><sg><nom><ind>$^,<cm>$ ^од<pr>$ ^*švercerja$^,<cm>$ ^на<pr>$ ^црн<adj><f><sg><nom><ind>$
+[/mlRJ3L4WQkFR]
+[oeZXN8hAzIZ2#0] ^Има<vbser><pres><p2><sg>$ ^убав<adj><mfn><pl><nom><ind>$ ^око<n><nt><pl><nom><ind>$
+[/oeZXN8hAzIZ2]
+[q2qw06VmBkcj#0] ^Дојде<vblex><pres><p1><sg>$
+[/q2qw06VmBkcj]
+[qDCYmw_Rn6EC#0] ^Купи<vblex><pii><du>$ ^се<prn><ref><mf><sp><dat>$ ^е<vbser><pres><p3><sg>$ ^тркало<n><nt><sg><nom><ind>$^.<sent>$
+[/qDCYmw_Rn6EC]
+[rITY1ifHSxxa#0] ^даде<vblex><pres><p2><sg>$
+[/rITY1ifHSxxa]
+[u473_2p5bwZ6#0] ^Мал<adj><f><sg><ind>$ ^спореден<adj><f><sg><ind>$ ^продавница<n><f><sg><nom><ind>$
+[/u473_2p5bwZ6]
+[vWp3Ngnr5NdT#0] ^Пребрати<vblex><pres><p1><sg>$ ^книга<n><f><sg><nom><ind>$
+[/vWp3Ngnr5NdT]
+[wGQUyUKxOlzn#0] ^Чита<vblex><pres><p1><sg>$ ^книга<n><f><sg><nom><ind>$
+[/wGQUyUKxOlzn]
+[xVIhaMMpdop_#0] ^Чита<vblex><pii><p1><sg>$ ^книга<n><f><sg><nom><ind>$
+[/xVIhaMMpdop_]
+[z_UOVwql03C_#0] ^Утре<adv>$ ^се<prn><ref><mf><sp><dat>$ ^ќе<part><exp>$ ^купи<vblex><pres><p1><sg>$ ^нов<adj><f><sg><nom><ind>$ ^клучалка<n><f><sg><nom><ind>$
+[/z_UOVwql03C_]

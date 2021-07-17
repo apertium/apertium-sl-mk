@@ -1,0 +1,90 @@
+[0C40dlytMAzp#0] ^Kupiti<vblex><past><m><sg>$ ^biti<vbser><fti><p1><sg>$ ^hiša<n><f><sg><acc>$
+[/0C40dlytMAzp]
+[2Pbk1M_3z4Tx#0] ^Jutri<adv>$ ^biti<vbser><fti><p3><sg>$ ^lep<adj><pst><m><sg><nom><def>$ ^dan<n><m><sg><nom>$
+[/2Pbk1M_3z4Tx]
+[2QcoKxThoEsY#0] ^Prebrati<vblex><past><m><sg>$ ^biti<vbser><fti><p1><sg>$ ^knjiga<n><f><sg><acc>$
+[/2QcoKxThoEsY]
+[3S_st7Ichl7_#0] ^Lepo<adv>$ ^mlad<adj><pst><nt><sg><nom>$ ^dekle<n><nt><sg><nom>$
+[/3S_st7Ichl7_]
+[6VDni6tprf8j#0] ^Včeraj<adv>$ ^biti<vbser><pres><p1><sg>$ ^biti<vbser><past><m><sg>$ ^na<pr>$ ^igrišče<n><nt><sg><dat>$
+[/6VDni6tprf8j]
+[6hL1EpLF6zsO#0] ^Prpers<prn><pers><p2><m><pl><nom>$ ^biti<vbser><pres><p2><pl>$ ^glaven<adj><pst><f><sg><dat>$
+[/6hL1EpLF6zsO]
+[70ZxwAJ0HMGD#0] ^Lepo<adv>$
+[/70ZxwAJ0HMGD]
+[A7pjiYUNac_G#0] ^Danes<adv>$ ^biti<vbser><pres><p3><sg>$ ^res<adv>$ ^lep<adj><pst><m><sg><nom><def>$ ^dan<n><m><sg><nom>$ ^in<cnjcoo>$ ^potovati<vblex><pres><p1><sg>$ ^s<pr>$ ^konj<n><m><sg><ins>$^.<sent>$
+[/A7pjiYUNac_G]
+[B7XW_jAn2xIw#0] ^Kupiti<vblex><past><m><du>$ ^biti<vbser><pres><p3><sg>$ ^avtomobil<n><m><sg><nom>$^.<sent>$
+[/B7XW_jAn2xIw]
+[GfMv4WjdhT_Q#0] ^Jutri<adv>$ ^biti<vbser><fti><p3><sg>$ ^kupiti<vblex><past><m><sg>$ ^kolo<n><nt><sg><nom>$^.<sent>$
+[/GfMv4WjdhT_Q]
+[IeJZ2P17_O7O#0] ^Dekle<n><nt><sg><nom>$ ^biti<vbser><pres><p3><sg>$ ^jabolko<n><nt><sg><nom>$
+[/IeJZ2P17_O7O]
+[Irk4Ma5-THY9#0] ^Kupiti<vblex><past><m><sg>$ ^biti<vbser><pres><p3><sg>$ ^kolo<n><nt><sg><nom>$^.<sent>$
+[/Irk4Ma5-THY9]
+[LGzfaJyGfbew#0] ^Vsak<prn><m><sg><nom>$ ^teden<n><m><sg><nom>$ ^prebrati<vblex><pres><p1><sg>$ ^knjiga<n><f><sg><acc>$
+[/LGzfaJyGfbew]
+[LL8UYMx294xn#0] ^Jutri<adv>$ ^biti<vbser><fti><p1><sg>$ ^biti<vbser><pres><p2><sg>$ ^kupiti<vblex><past><m><sg>$ ^nov<adj><pst><nt><sg><nom>$ ^kolo<n><nt><sg><nom>$
+[/LL8UYMx294xn]
+[MjYz3b0ReEK_#0] ^Jutri<adv>$ ^biti<vbser><fti><p1><sg>$ ^kupiti<vblex><past><m><sg>$ ^hiša<n><f><sg><acc>$
+[/MjYz3b0ReEK_]
+[Ohr8KRtahjY-#0] ^Oni<prn><m><sg><nom>$ ^biti<vbser><pres><p3><pl>$ ^glaven<adj><pst><f><sg><dat>$
+[/Ohr8KRtahjY-]
+[PXJkPUn8NXSR#0] ^ta<prn><dem><f><du><acc>$^,<cm>$ ^prpers<prn><pers><p3><m><sg><nom>$^,<cm>$ ^prpers<prn><pers><p1><mfn><sg><dat>$^,<cm>$ ^prpers<prn><pers><p2><m><pl><nom>$^,<cm>$ ^oni<prn><m><sg><nom>$^,<cm>$ ^prpers<prn><pers><p1><m><du><nom>$^,<cm>$ ^prpers<prn><pers><p2><m><du><nom>$^,<cm>$ ^prpers<prn><pers><p3><m><du><nom>$
+[/PXJkPUn8NXSR]
+[Qt2kOkDIHzST#0] ^Hoditi<vblex><past><m><sg>$ ^biti<vbser><pres><p1><sg>$ ^po<pr>$ ^zemlja<n><f><sg><dat>$ ^naš<prn><pos><p1><m><pl><nom>$^,<cm>$ ^srečati<vblex><past><m><sg>$ ^dober<adj><pst><f><sg><gen>$ ^biti<vbser><pres><p1><sg>$ ^človek<n><m><pl><gen>$^,<cm>$ ^majhen<adj><pst><f><sg><dat>$ ^skromen<adj><pst><f><sg><dat>$ ^a<cnjcoo>$ ^pošten<adj><pst><f><sg><dat>$^,<cm>$ ^ta<prn><dem><f><sg><acc>$ ^biti<vbser><pres><p1><pl>$ ^prpers<prn><pers><p1><mfn><sg><dat>$
+[/Qt2kOkDIHzST]
+[STZ5E6hlWSGo#0] ^Kupiti<vblex><past><m><sg>$ ^biti<vbser><fti><p1><sg>$ ^se<prn><ref><mf><sp><dat>$ ^nov<adj><pst><f><sg><acc>$ ^*kravato$
+[/STZ5E6hlWSGo]
+[TKoFGAATuTTA#0] ^Kupiti<vblex><past><m><sg>$ ^se<prn><ref><mf><sp><dat>$ ^biti<vbser><pres><p3><sg>$ ^kolo<n><nt><sg><nom>$^.<sent>$
+[/TKoFGAATuTTA]
+[VpjLHNCnZQ8k#0] ^Prpers<prn><pers><p2><mfn><sg><nom>$ ^biti<vbser><pres><p2><sg>$ ^glaven<adj><pst><f><sg><dat>$
+[/VpjLHNCnZQ8k]
+[X9DLsrVBMMVp#0] ^Brati<vblex><past><m><sg>$ ^biti<vbser><fti><p1><sg>$ ^knjiga<n><f><sg><acc>$
+[/X9DLsrVBMMVp]
+[_GW3RdhJAJbc#0] ^Prpers<prn><pers><p3><m><sg><nom>$ ^hoteti<vblex><pres><p3><sg>$ ^čaj<n><m><sg><nom>$
+[/_GW3RdhJAJbc]
+[c3W6v9q0O6F3#0] ^Včeraj<adv>$ ^biti<vbser><pres><p3><sg>$ ^kupiti<vblex><past><m><sg>$ ^kolo<n><nt><sg><nom>$^.<sent>$
+[/c3W6v9q0O6F3]
+[c5sGsahSHa8V#0] ^Prpers<prn><pers><p1><mfn><sg><nom>$ ^biti<vbser><pres><p1><sg>$ ^hoditi<vblex><past><m><sg>$ ^po<pr>$ ^pot<n><f><sg><gen>$
+[/c5sGsahSHa8V]
+[cQGhil_rr0qF#0] ^Knjiga<n><f><sg><nom>$ ^se<prn><ref><mf><sp><gen>$ ^lepo<adv>$ ^brati<vblex><pres><p3><sg>$
+[/cQGhil_rr0qF]
+[d3OGYw5OAcAe#0] ^biti<vbser><pres><p2><sg>$ ^dati<vblex><past><m><sg>$
+[/d3OGYw5OAcAe]
+[eeXOnNlADZRr#0] ^Jutri<adv>$ ^biti<vbser><fti><p3><sg>$ ^lep<adj><pst><m><sg><nom><def>$ ^dan<n><m><sg><nom>$^.<sent>$
+[/eeXOnNlADZRr]
+[eicNvSEogAIr#0] ^Priti<vblex><past><m><sg>$ ^biti<vbser><fti><p1><sg>$
+[/eicNvSEogAIr]
+[fHSd7J3NjC_H#0] ^Prpers<prn><pers><p1><mfn><sg><nom>$ ^biti<vbser><pres><p1><sg>$ ^glaven<adj><pst><f><sg><dat>$
+[/fHSd7J3NjC_H]
+[fxyagJDmczRm#0] ^Danes<adv>$ ^biti<vbser><pres><p3><sg>$ ^lep<adj><pst><nt><sg><nom>$ ^vreme<n><nt><sg><nom>$^.<sent>$
+[/fxyagJDmczRm]
+[izcdxr9HYAhg#0] ^Prpers<prn><pers><p1><mfn><sg><dat>$ ^biti<vbser><pres><p1><pl>$ ^glaven<adj><pst><f><sg><dat>$
+[/izcdxr9HYAhg]
+[j6Ij_pO_4911#0] ^Prebrati<vblex><past><m><sg>$ ^biti<vbser><pres><p1><sg>$ ^knjiga<n><f><sg><acc>$
+[/j6Ij_pO_4911]
+[l2WFizkAauWe#0] ^Biti<vbser><past><m><sg>$ ^biti<vbser><pres><p1><sg>$ ^v<pr>$ ^Italija<np><top><f><sg><dat>$
+[/l2WFizkAauWe]
+[lRPWd_fPi7aL#0] ^Lep<adj><pst><nt><sg><nom>$ ^dekle<n><nt><sg><nom>$
+[/lRPWd_fPi7aL]
+[mlRJ3L4WQkFR#0] ^Kupiti<vblex><past><m><sg>$ ^se<prn><ref><mf><sp><dat>$ ^biti<vbser><fti><p1><sg>$ ^pištola<n><f><sg><acc>$^,<cm>$ ^od<pr>$ ^*švercerja$^,<cm>$ ^na<pr>$ ^črn<adj><pst><f><sg><acc>$
+[/mlRJ3L4WQkFR]
+[oeZXN8hAzIZ2#0] ^Imeti<vblex><pres><p2><sg>$ ^lep<adj><pst><f><pl><nom>$ ^oči<n><f><pl><nom>$
+[/oeZXN8hAzIZ2]
+[q2qw06VmBkcj#0] ^Priti<vblex><pres><p1><sg>$
+[/q2qw06VmBkcj]
+[qDCYmw_Rn6EC#0] ^Kupiti<vblex><past><m><du>$ ^se<prn><ref><mf><sp><dat>$ ^biti<vbser><pres><p3><sg>$ ^kolo<n><nt><sg><nom>$^.<sent>$
+[/qDCYmw_Rn6EC]
+[rITY1ifHSxxa#0] ^dati<vblex><pres><p2><sg>$
+[/rITY1ifHSxxa]
+[u473_2p5bwZ6#0] ^Majhen<adj><pst><f><sg><nom>$ ^zakoten<adj><pst><f><sg><nom>$ ^trgovina<n><f><sg><nom>$
+[/u473_2p5bwZ6]
+[vWp3Ngnr5NdT#0] ^Prebrati<vblex><pres><p1><sg>$ ^knjiga<n><f><sg><acc>$
+[/vWp3Ngnr5NdT]
+[wGQUyUKxOlzn#0] ^Brati<vblex><pres><p1><sg>$ ^knjiga<n><f><sg><acc>$
+[/wGQUyUKxOlzn]
+[xVIhaMMpdop_#0] ^Brati<vblex><past><m><sg>$ ^biti<vbser><pres><p1><sg>$ ^knjiga<n><f><sg><acc>$
+[/xVIhaMMpdop_]
+[z_UOVwql03C_#0] ^Jutri<adv>$ ^se<prn><ref><mf><sp><dat>$ ^biti<vbser><fti><p1><sg>$ ^kupiti<vblex><past><m><sg>$ ^nov<adj><pst><f><sg><acc>$ ^ključavnica<n><f><sg><acc>$
+[/z_UOVwql03C_]

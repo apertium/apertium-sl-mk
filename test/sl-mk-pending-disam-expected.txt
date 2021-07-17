@@ -1,0 +1,90 @@
+[0C40dlytMAzp#0] ^Kupil/Kupiti<vblex><past><m><sg>$ ^bom/biti<vbser><fti><p1><sg>$ ^hišo/hiša<n><f><sg><acc>/hiša<n><f><sg><ins>$
+[/0C40dlytMAzp]
+[2Pbk1M_3z4Tx#0] ^Jutri/Jutri<adv>/Jutro<n><nt><du><nom>/Jutro<n><nt><du><acc>/Jutro<n><nt><pl><ins>$ ^bo/biti<vbser><fti><p3><sg>$ ^lep/lep<adj><pst><m><sg><nom><def>/lep<adj><pst><m><sg><acc><def>$ ^dan/dan<n><m><sg><nom>/dan<n><m><sg><acc>/dno<n><nt><du><gen>/dno<n><nt><pl><gen>/dati<vblex><pass><m><sg>/dan<adj><pst><m><sg><nom><def>/dan<adj><pst><m><sg><acc><def>$
+[/2Pbk1M_3z4Tx]
+[2QcoKxThoEsY#0] ^Prebral/Prebrati<vblex><past><m><sg>$ ^bom/biti<vbser><fti><p1><sg>$ ^knjigo/knjiga<n><f><sg><acc>/knjiga<n><f><sg><ins>$
+[/2QcoKxThoEsY]
+[3S_st7Ichl7_#0] ^Lepo/Lepo<adv>/Lep<adj><pst><nt><sg><nom>/Lep<adj><pst><nt><sg><acc>$ ^mlado/mlado<adv>/mlad<adj><pst><nt><sg><nom>/mlad<adj><pst><nt><sg><acc>$ ^dekle/dekle<n><nt><sg><nom>/dekle<n><nt><sg><acc>$
+[/3S_st7Ichl7_]
+[6VDni6tprf8j#0] ^Včeraj/Včeraj<adv>$ ^sem/biti<vbser><pres><p1><sg>$ ^bil/biti<vbser><past><m><sg>$ ^na/na<pr>$ ^igrišču/igrišče<n><nt><sg><dat>/igrišče<n><nt><sg><loc>$
+[/6VDni6tprf8j]
+[6hL1EpLF6zsO#0] ^Vi/Viti<vblex><pres><p3><sg>/Prpers<prn><pers><p2><m><pl><nom>$ ^ste/biti<vbser><pres><p2><pl>$ ^glavni/glaven<adj><pst><m><pl><nom>/glaven<adj><pst><f><sg><dat>/glaven<adj><pst><f><sg><loc>/glaven<adj><pst><f><du><nom>/glaven<adj><pst><f><du><acc>/glaven<adj><pst><nt><du><nom>/glaven<adj><pst><nt><du><acc>/glaven<adj><pst><m><sg><nom><ind>/glaven<adj><pst><m><sg><acc><ind>$
+[/6hL1EpLF6zsO]
+[70ZxwAJ0HMGD#0] ^Lepo/Lepo<adv>/Lep<adj><pst><f><sg><acc>/Lep<adj><pst><f><sg><ins>/Lep<adj><pst><nt><sg><nom>/Lep<adj><pst><nt><sg><acc>$
+[/70ZxwAJ0HMGD]
+[A7pjiYUNac_G#0] ^Danes/Danes<adv>$ ^je/biti<vbser><pres><p3><sg>/jesti<vblex><pres><p3><sg>$ ^res/res<part>/res<adv>/resa<n><f><du><gen>/resa<n><f><pl><gen>$ ^lep/lep<adj><pst><m><sg><nom><def>/lep<adj><pst><m><sg><acc><def>$ ^dan/dan<n><m><sg><nom>/dan<n><m><sg><acc>/dno<n><nt><du><gen>/dno<n><nt><pl><gen>/dati<vblex><pass><m><sg>/dan<adj><pst><m><sg><nom><def>/dan<adj><pst><m><sg><acc><def>$ ^in/in<cnjcoo>$ ^potujem/potovati<vblex><pres><p1><sg>$ ^s/s<pr>$ ^konjem/konj<n><m><sg><ins>/konj<n><m><pl><dat>$^./.<sent>$
+[/A7pjiYUNac_G]
+[B7XW_jAn2xIw#0] ^Kupila/Kupiti<vblex><past><m><du>/Kupiti<vblex><past><f><sg>/Kupiti<vblex><past><nt><pl>$ ^je/biti<vbser><pres><p3><sg>/jesti<vblex><pres><p3><sg>$ ^avtomobil/avtomobil<n><m><sg><nom>/avtomobil<n><m><sg><acc>$^./.<sent>$
+[/B7XW_jAn2xIw]
+[GfMv4WjdhT_Q#0] ^Jutri/Jutri<adv>/Jutro<n><nt><du><nom>/Jutro<n><nt><du><acc>/Jutro<n><nt><pl><ins>$ ^bo/biti<vbser><fti><p3><sg>$ ^kupil/kupiti<vblex><past><m><sg>$ ^kolo/kolo<n><nt><sg><nom>/kolo<n><nt><sg><acc>$^./.<sent>$
+[/GfMv4WjdhT_Q]
+[IeJZ2P17_O7O#0] ^Dekle/Dekle<n><nt><sg><nom>/Dekle<n><nt><sg><acc>$ ^je/biti<vbser><pres><p3><sg>/jesti<vblex><pres><p3><sg>$ ^jabolko/jabolko<n><nt><sg><nom>/jabolko<n><nt><sg><acc>$
+[/IeJZ2P17_O7O]
+[Irk4Ma5-THY9#0] ^Kupil/Kupiti<vblex><past><m><sg>$ ^je/biti<vbser><pres><p3><sg>/jesti<vblex><pres><p3><sg>$ ^kolo/kolo<n><nt><sg><nom>/kolo<n><nt><sg><acc>$^./.<sent>$
+[/Irk4Ma5-THY9]
+[LGzfaJyGfbew#0] ^Vsak/Vsak<prn><m><sg><nom>/Vsak<prn><m><sg><acc>$ ^teden/teden<n><m><sg><nom>/teden<n><m><sg><acc>$ ^preberem/prebrati<vblex><pres><p1><sg>$ ^knjigo/knjiga<n><f><sg><acc>/knjiga<n><f><sg><ins>$
+[/LGzfaJyGfbew]
+[LL8UYMx294xn#0] ^Jutri/Jutri<adv>/Jutro<n><nt><du><nom>/Jutro<n><nt><du><acc>/Jutro<n><nt><pl><ins>$ ^bom/biti<vbser><fti><p1><sg>$ ^si/biti<vbser><pres><p2><sg>$ ^kupil/kupiti<vblex><past><m><sg>$ ^novo/novo<adv>/nov<adj><pst><nt><sg><nom>/nov<adj><pst><nt><sg><acc>$ ^kolo/kolo<n><nt><sg><nom>/kolo<n><nt><sg><acc>$
+[/LL8UYMx294xn]
+[MjYz3b0ReEK_#0] ^Jutri/Jutri<adv>/Jutro<n><nt><du><nom>/Jutro<n><nt><du><acc>/Jutro<n><nt><pl><ins>$ ^bom/biti<vbser><fti><p1><sg>$ ^kupil/kupiti<vblex><past><m><sg>$ ^hišo/hiša<n><f><sg><acc>/hiša<n><f><sg><ins>$
+[/MjYz3b0ReEK_]
+[Ohr8KRtahjY-#0] ^Oni/Oni<prn><m><sg><nom>/Oni<prn><m><sg><acc>/Oni<prn><m><pl><nom>/Oni<prn><f><sg><dat>/Oni<prn><f><sg><loc>/Oni<prn><f><du><nom>/Oni<prn><f><du><acc>/Oni<prn><nt><du><nom>/Oni<prn><nt><du><acc>/Prpers<prn><pers><p3><m><pl><nom>$ ^so/biti<vbser><pres><p3><pl>$ ^glavni/glaven<adj><pst><m><pl><nom>/glaven<adj><pst><f><sg><dat>/glaven<adj><pst><f><sg><loc>/glaven<adj><pst><f><du><nom>/glaven<adj><pst><f><du><acc>/glaven<adj><pst><nt><du><nom>/glaven<adj><pst><nt><du><acc>/glaven<adj><pst><m><sg><nom><ind>/glaven<adj><pst><m><sg><acc><ind>$
+[/Ohr8KRtahjY-]
+[PXJkPUn8NXSR#0] ^ti/ta<prn><dem><f><du><acc>/ta<prn><dem><nt><du><acc>/prpers<prn><pers><p2><mfn><sg><nom>/prpers<prn><pers><p2><mfn><sg><dat>$^,/,<cm>$ ^on/prpers<prn><pers><p3><m><sg><nom>$^,/,<cm>$ ^mi/prpers<prn><pers><p1><mfn><sg><dat>/prpers<prn><pers><p1><m><pl><nom>$^,/,<cm>$ ^vi/viti<vblex><pres><p3><sg>/prpers<prn><pers><p2><m><pl><nom>$^,/,<cm>$ ^oni/oni<prn><m><sg><nom>/oni<prn><m><sg><acc>/oni<prn><m><pl><nom>/oni<prn><f><sg><dat>/oni<prn><f><sg><loc>/oni<prn><f><du><nom>/oni<prn><f><du><acc>/oni<prn><nt><du><nom>/oni<prn><nt><du><acc>/prpers<prn><pers><p3><m><pl><nom>$^,/,<cm>$ ^midva/prpers<prn><pers><p1><m><du><nom>$^,/,<cm>$ ^vidva/prpers<prn><pers><p2><m><du><nom>$^,/,<cm>$ ^onadva/prpers<prn><pers><p3><m><du><nom>$
+[/PXJkPUn8NXSR]
+[Qt2kOkDIHzST#0] ^Hodil/Hoditi<vblex><past><m><sg>$ ^sem/biti<vbser><pres><p1><sg>$ ^po/po<pr>$ ^zemlji/zemlja<n><f><sg><dat>/zemlja<n><f><sg><loc>/zemlja<n><f><du><nom>/zemlja<n><f><du><acc>$ ^naši/naš<prn><pos><p1><m><pl><nom>/naš<prn><pos><p1><f><sg><dat>/naš<prn><pos><p1><f><sg><loc>/naš<prn><pos><p1><f><du><nom>/naš<prn><pos><p1><f><du><acc>/naš<prn><pos><p1><nt><du><nom>/naš<prn><pos><p1><nt><du><acc>$^,/,<cm>$ ^srečal/srečati<vblex><past><m><sg>$ ^dobre/dober<adj><pst><m><pl><acc>/dober<adj><pst><f><sg><gen>/dober<adj><pst><f><pl><nom>/dober<adj><pst><f><pl><acc>$ ^sem/biti<vbser><pres><p1><sg>$ ^ljudi/človek<n><m><du><gen>/človek<n><m><pl><gen>/človek<n><m><pl><acc>$^,/,<cm>$ ^majhni/majhen<adj><pst><m><pl><nom>/majhen<adj><pst><f><sg><dat>/majhen<adj><pst><f><sg><loc>/majhen<adj><pst><f><du><nom>/majhen<adj><pst><f><du><acc>/majhen<adj><pst><nt><du><nom>/majhen<adj><pst><nt><du><acc>/majhen<adj><pst><m><sg><nom><ind>/majhen<adj><pst><m><sg><acc><ind>$ ^skromni/skromen<adj><pst><m><pl><nom>/skromen<adj><pst><f><sg><dat>/skromen<adj><pst><f><sg><loc>/skromen<adj><pst><f><du><nom>/skromen<adj><pst><f><du><acc>/skromen<adj><pst><nt><du><nom>/skromen<adj><pst><nt><du><acc>/skromen<adj><pst><m><sg><nom><ind>/skromen<adj><pst><m><sg><acc><ind>$ ^a/a<cnjcoo>$ ^pošteni/pošten<adj><pst><m><pl><nom>/pošten<adj><pst><f><sg><dat>/pošten<adj><pst><f><sg><loc>/pošten<adj><pst><f><du><nom>/pošten<adj><pst><f><du><acc>/pošten<adj><pst><nt><du><nom>/pošten<adj><pst><nt><du><acc>/pošten<adj><pst><m><sg><nom><ind>/pošten<adj><pst><m><sg><acc><ind>$^,/,<cm>$ ^to/ta<prn><dem><f><sg><acc>/ta<prn><dem><f><sg><ins>/ta<prn><dem><nt><sg><acc>$ ^smo/biti<vbser><pres><p1><pl>$ ^mi/prpers<prn><pers><p1><mfn><sg><dat>/prpers<prn><pers><p1><m><pl><nom>$
+[/Qt2kOkDIHzST]
+[STZ5E6hlWSGo#0] ^Kupil/Kupiti<vblex><past><m><sg>$ ^bom/biti<vbser><fti><p1><sg>$ ^si/se<prn><ref><mf><sp><dat>/biti<vbser><pres><p2><sg>$ ^novo/novo<adv>/nov<adj><pst><f><sg><acc>/nov<adj><pst><f><sg><ins>/nov<adj><pst><nt><sg><nom>/nov<adj><pst><nt><sg><acc>$ ^kravato/*kravato$
+[/STZ5E6hlWSGo]
+[TKoFGAATuTTA#0] ^Kupil/Kupiti<vblex><past><m><sg>$ ^si/se<prn><ref><mf><sp><dat>/biti<vbser><pres><p2><sg>$ ^je/biti<vbser><pres><p3><sg>/jesti<vblex><pres><p3><sg>$ ^kolo/kolo<n><nt><sg><nom>/kolo<n><nt><sg><acc>$^./.<sent>$
+[/TKoFGAATuTTA]
+[VpjLHNCnZQ8k#0] ^Ti/Prpers<prn><pers><p2><mfn><sg><nom>/Prpers<prn><pers><p2><mfn><sg><dat>$ ^si/biti<vbser><pres><p2><sg>$ ^glavni/glaven<adj><pst><m><pl><nom>/glaven<adj><pst><f><sg><dat>/glaven<adj><pst><f><sg><loc>/glaven<adj><pst><f><du><nom>/glaven<adj><pst><f><du><acc>/glaven<adj><pst><nt><du><nom>/glaven<adj><pst><nt><du><acc>/glaven<adj><pst><m><sg><nom><ind>/glaven<adj><pst><m><sg><acc><ind>$
+[/VpjLHNCnZQ8k]
+[X9DLsrVBMMVp#0] ^Bral/Brati<vblex><past><m><sg>$ ^bom/biti<vbser><fti><p1><sg>$ ^knjigo/knjiga<n><f><sg><acc>/knjiga<n><f><sg><ins>$
+[/X9DLsrVBMMVp]
+[_GW3RdhJAJbc#0] ^On/Prpers<prn><pers><p3><m><sg><nom>$ ^hoče/hoteti<vblex><pres><p3><sg>$ ^čaj/čaj<n><m><sg><nom>/čaj<n><m><sg><acc>$
+[/_GW3RdhJAJbc]
+[c3W6v9q0O6F3#0] ^Včeraj/Včeraj<adv>$ ^je/biti<vbser><pres><p3><sg>$ ^kupil/kupiti<vblex><past><m><sg>$ ^kolo/kolo<n><nt><sg><nom>/kolo<n><nt><sg><acc>$^./.<sent>$
+[/c3W6v9q0O6F3]
+[c5sGsahSHa8V#0] ^Jaz/Prpers<n><m><sg><nom>/Prpers<n><m><sg><acc>/Prpers<prn><pers><p1><mfn><sg><nom>$ ^sem/biti<vbser><pres><p1><sg>$ ^hodil/hoditi<vblex><past><m><sg>$ ^po/po<pr>$ ^poti/pot<n><m><pl><nom>/pot<n><m><pl><ins>/pot<n><f><sg><gen>/pot<n><f><sg><dat>/pot<n><f><sg><loc>/pot<n><f><du><nom>/pot<n><f><du><gen>/pot<n><f><du><acc>/pot<n><f><pl><nom>/pot<n><f><pl><gen>/pot<n><f><pl><acc>/potiti<vblex><pres><p2><sg>/potiti<vblex><pres><p3><sg>$
+[/c5sGsahSHa8V]
+[cQGhil_rr0qF#0] ^Knjiga/Knjiga<n><f><sg><nom>$ ^se/se<prn><ref><mf><sp><gen>/se<prn><ref><mf><sp><acc>/se<prn><ref><mf><sp><loc>/se<prn><ref><mf><sp><ins>$ ^lepo/lepo<adv>/lep<adj><pst><f><sg><acc>/lep<adj><pst><f><sg><ins>$ ^bere/bera<n><f><sg><gen>/bera<n><f><pl><nom>/bera<n><f><pl><acc>/brati<vblex><pres><p3><sg>$
+[/cQGhil_rr0qF]
+[d3OGYw5OAcAe#0] ^si/biti<vbser><pres><p2><sg>$ ^dal/dati<vblex><past><m><sg>$
+[/d3OGYw5OAcAe]
+[eeXOnNlADZRr#0] ^Jutri/Jutri<adv>/Jutro<n><nt><du><nom>/Jutro<n><nt><du><acc>/Jutro<n><nt><pl><ins>$ ^bo/biti<vbser><fti><p3><sg>$ ^lep/lep<adj><pst><m><sg><nom><def>/lep<adj><pst><m><sg><acc><def>$ ^dan/dan<n><m><sg><nom>/dan<n><m><sg><acc>/dno<n><nt><du><gen>/dno<n><nt><pl><gen>/dati<vblex><pass><m><sg>/dan<adj><pst><m><sg><nom><def>/dan<adj><pst><m><sg><acc><def>$^./.<sent>$
+[/eeXOnNlADZRr]
+[eicNvSEogAIr#0] ^Prišel/Priti<vblex><past><m><sg>$ ^bom/biti<vbser><fti><p1><sg>$
+[/eicNvSEogAIr]
+[fHSd7J3NjC_H#0] ^Jaz/Prpers<n><m><sg><nom>/Prpers<n><m><sg><acc>/Prpers<prn><pers><p1><mfn><sg><nom>$ ^sem/biti<vbser><pres><p1><sg>$ ^glavni/glaven<adj><pst><m><pl><nom>/glaven<adj><pst><f><sg><dat>/glaven<adj><pst><f><sg><loc>/glaven<adj><pst><f><du><nom>/glaven<adj><pst><f><du><acc>/glaven<adj><pst><nt><du><nom>/glaven<adj><pst><nt><du><acc>/glaven<adj><pst><m><sg><nom><ind>/glaven<adj><pst><m><sg><acc><ind>$
+[/fHSd7J3NjC_H]
+[fxyagJDmczRm#0] ^Danes/Danes<adv>$ ^je/biti<vbser><pres><p3><sg>/jesti<vblex><pres><p3><sg>$ ^lepo/lepo<adv>/lep<adj><pst><nt><sg><nom>/lep<adj><pst><nt><sg><acc>$ ^vreme/vreme<n><nt><sg><nom>/vreme<n><nt><sg><acc>$^./.<sent>$
+[/fxyagJDmczRm]
+[izcdxr9HYAhg#0] ^Mi/Prpers<prn><pers><p1><mfn><sg><dat>/Prpers<prn><pers><p1><m><pl><nom>$ ^smo/biti<vbser><pres><p1><pl>$ ^glavni/glaven<adj><pst><m><pl><nom>/glaven<adj><pst><f><sg><dat>/glaven<adj><pst><f><sg><loc>/glaven<adj><pst><f><du><nom>/glaven<adj><pst><f><du><acc>/glaven<adj><pst><nt><du><nom>/glaven<adj><pst><nt><du><acc>/glaven<adj><pst><m><sg><nom><ind>/glaven<adj><pst><m><sg><acc><ind>$
+[/izcdxr9HYAhg]
+[j6Ij_pO_4911#0] ^Prebral/Prebrati<vblex><past><m><sg>$ ^sem/biti<vbser><pres><p1><sg>$ ^knjigo/knjiga<n><f><sg><acc>/knjiga<n><f><sg><ins>$
+[/j6Ij_pO_4911]
+[l2WFizkAauWe#0] ^Bil/Biti<vbser><past><m><sg>$ ^sem/biti<vbser><pres><p1><sg>$ ^v/v<pr>$ ^Italiji/Italija<np><top><f><sg><dat>/Italija<np><top><f><sg><loc>/Italija<np><top><f><du><nom>/Italija<np><top><f><du><acc>$
+[/l2WFizkAauWe]
+[lRPWd_fPi7aL#0] ^Lepo/Lepo<adv>/Lep<adj><pst><nt><sg><nom>/Lep<adj><pst><nt><sg><acc>$ ^dekle/dekle<n><nt><sg><nom>/dekle<n><nt><sg><acc>$
+[/lRPWd_fPi7aL]
+[mlRJ3L4WQkFR#0] ^Kupil/Kupiti<vblex><past><m><sg>$ ^si/se<prn><ref><mf><sp><dat>/biti<vbser><pres><p2><sg>$ ^bom/biti<vbser><fti><p1><sg>$ ^pištolo/pištola<n><f><sg><acc>/pištola<n><f><sg><ins>$^,/,<cm>$ ^od/od<pr>/oda<n><f><du><gen>/oda<n><f><pl><gen>$ ^švercerja/*švercerja$^,/,<cm>$ ^na/na<pr>$ ^črno/črno<adv>/črn<adj><pst><f><sg><acc>/črn<adj><pst><f><sg><ins>/črn<adj><pst><nt><sg><nom>/črn<adj><pst><nt><sg><acc>$
+[/mlRJ3L4WQkFR]
+[oeZXN8hAzIZ2#0] ^Imaš/Imeti<vblex><pres><p2><sg>/Imeti<vblex><pres><p2><sg><neg>$ ^lepe/lep<adj><pst><f><sg><gen>/lep<adj><pst><f><pl><nom>/lep<adj><pst><f><pl><acc>$ ^oči/oči<n><f><pl><nom>/oči<n><f><pl><gen>/oči<n><f><pl><acc>$
+[/oeZXN8hAzIZ2]
+[q2qw06VmBkcj#0] ^Pridem/Priti<vblex><pres><p1><sg>$
+[/q2qw06VmBkcj]
+[qDCYmw_Rn6EC#0] ^Kupila/Kupiti<vblex><past><m><du>/Kupiti<vblex><past><f><sg>/Kupiti<vblex><past><nt><pl>$ ^si/se<prn><ref><mf><sp><dat>/biti<vbser><pres><p2><sg>$ ^je/biti<vbser><pres><p3><sg>/jesti<vblex><pres><p3><sg>$ ^kolo/kolo<n><nt><sg><nom>/kolo<n><nt><sg><acc>$^./.<sent>$
+[/qDCYmw_Rn6EC]
+[rITY1ifHSxxa#0] ^daš/dati<vblex><pres><p2><sg>$
+[/rITY1ifHSxxa]
+[u473_2p5bwZ6#0] ^Majhna/Majhen<adj><pst><f><sg><nom>$ ^zakotna/zakoten<adj><pst><f><sg><nom>$ ^trgovina/trgovina<n><f><sg><nom>$
+[/u473_2p5bwZ6]
+[vWp3Ngnr5NdT#0] ^Preberem/Prebrati<vblex><pres><p1><sg>$ ^knjigo/knjiga<n><f><sg><acc>/knjiga<n><f><sg><ins>$
+[/vWp3Ngnr5NdT]
+[wGQUyUKxOlzn#0] ^Berem/Brati<vblex><pres><p1><sg>$ ^knjigo/knjiga<n><f><sg><acc>/knjiga<n><f><sg><ins>$
+[/wGQUyUKxOlzn]
+[xVIhaMMpdop_#0] ^Bral/Brati<vblex><past><m><sg>$ ^sem/biti<vbser><pres><p1><sg>$ ^knjigo/knjiga<n><f><sg><acc>/knjiga<n><f><sg><ins>$
+[/xVIhaMMpdop_]
+[z_UOVwql03C_#0] ^Jutri/Jutri<adv>/Jutro<n><nt><du><nom>/Jutro<n><nt><du><acc>/Jutro<n><nt><pl><ins>$ ^si/se<prn><ref><mf><sp><dat>/biti<vbser><pres><p2><sg>$ ^bom/biti<vbser><fti><p1><sg>$ ^kupil/kupiti<vblex><past><m><sg>$ ^novo/novo<adv>/nov<adj><pst><f><sg><acc>/nov<adj><pst><f><sg><ins>$ ^ključavnico/ključavnica<n><f><sg><acc>/ključavnica<n><f><sg><ins>$
+[/z_UOVwql03C_]
